@@ -1,6 +1,4 @@
-# Crear el archivo README.md con el contenido corregido
 
-readme_content = """
 # Astra Wi-Fi Auditor: Herramienta de Auditoría de Redes Wi-Fi Ética 📡
 
 ## Descripción  
