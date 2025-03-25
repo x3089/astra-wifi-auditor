@@ -4,7 +4,7 @@
 ## Descripción  
 Astra Wi-Fi Auditor es una herramienta diseñada para la auditoría de redes Wi-Fi. Con ella, podrás escanear y analizar redes inalámbricas para identificar posibles vulnerabilidades. Sin embargo, esta herramienta debe ser utilizada con fines **éticos y legales**. No me responsabilizo por el mal uso de la herramienta.
 
----
+--
 
 ## 🚀 Características Principales  
 - **Escaneo de redes Wi-Fi**: Detecta todas las redes Wi-Fi disponibles.  
